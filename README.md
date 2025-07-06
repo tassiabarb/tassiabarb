@@ -35,6 +35,11 @@
   <a href="https://discord.com/users/tassickdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" />
   </a>
-</div>
+</div>    
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tassiabarb/tassiabarb/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
