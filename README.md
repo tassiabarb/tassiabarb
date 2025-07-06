@@ -1,4 +1,4 @@
-## ⋆｡‧˚ʚ tassia barbosa ɞ˚‧｡⋆
+## ⋆｡‧˚ʚ Tassia Barbosa ɞ˚‧｡⋆
 
     ── .✦ 25 anos  
     ── .✦ Pernambuco, Brasil  
@@ -10,7 +10,7 @@
    
 ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ Tech Skills ꒦꒷⭑ ࣭ ๋︶꒦꒷︶꒦꒷  
       
-    ♡︎ python  
+    ♡︎ Python  
     ♡︎ HTML  
     ♡︎ CSS  
     ♡︎ Java Script  
