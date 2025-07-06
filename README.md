@@ -1,7 +1,17 @@
-## 𓂃˖˳·˖ ִֶָ ⋆🌷͙ ִֶָtassia barbosa🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָ
+## ⋆｡‧˚ʚ tassia barbosa ɞ˚‧｡⋆
 
-  ★ 25 anos  
-  ★ Pernambuco, Brasil  
+    ── .✦ 25 anos  
+    ── .✦ Pernambuco, Brasil  
 
-    estudante de Análise e Desenvolvimento de Sistemas 
-    Estou explorando áreas como front-end, back-end, banco de dados e mais.
+ ࣪ ִֶָ☾.  
+   
+     Estudante de Análise e Desenvolvimento de Sistemas.  
+     Estou explorando áreas como front-end, back-end, banco de dados e mais.  
+   
+꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ Tech Skills ꒦꒷⭑ ࣭ ๋︶꒦꒷︶꒦꒷  
+      
+    ♡︎ python  
+    ♡︎ HTML  
+    ♡︎ CSS  
+    ♡︎ Java Script  
+    ♡︎ Java
