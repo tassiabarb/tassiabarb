@@ -5,16 +5,7 @@
 
  ࣪ ִֶָ☾.  
    
-     Estudante de Análise e Desenvolvimento de Sistemas.  
-     Estou explorando áreas como front-end, back-end, banco de dados e mais.  
-   
-꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦ Tech Skills ꒦꒷⭑ ࣭ ๋︶꒦꒷︶꒦꒷  
-      
-    ♡︎ Python  
-    ♡︎ HTML  
-    ♡︎ CSS  
-    ♡︎ Java Script  
-    ♡︎ Java
+     Estudante de Análise e Desenvolvimento de Sistemas. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tassiabarb&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
