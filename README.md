@@ -1,5 +1,6 @@
 <div align="center">
  <img src="https://github-readme-stats-6erclomkp-tassiabarbs-projects.vercel.app/api?username=tassiabarb&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" /> <img src="https://github-readme-stats-6erclomkp-tassiabarbs-projects.vercel.app/api/top-langs/?username=tassiabarb&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  </div>
 
 <div align="center">    
     
