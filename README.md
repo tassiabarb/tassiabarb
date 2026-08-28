@@ -1,7 +1,8 @@
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassiabarb&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </div>
 
-<div align="center">    
+<br /> 
     
   <a href="https://www.instagram.com/tassiabarb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
